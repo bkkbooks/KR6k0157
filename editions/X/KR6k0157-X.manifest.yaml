@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6k0157/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0157/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律刪補隨機羯磨疏科
+  identifiers:
+    krp: KR6k0157
+    cbeta: X41n0727
+    cbeta_old_id: X41n0727
+    authorityid: CA0002803
+    json_key: X0727
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X41/X41n0727.xml
+    old_id: X41n0727
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0157_000-X.yaml, hash: 'sha256:e6cb8a41fd60702026b6f97a3d14134df2dfc353305d9503841de515eb6793fc'}
+  - {seq: 1, filename: KR6k0157_001-X.yaml, hash: 'sha256:94617d1d163624dde9b09c928034db71aa9aefa23b19bc61854aabee46827b81'}
+  - {seq: 2, filename: KR6k0157_002-X.yaml, hash: 'sha256:90dfb4fd2ae85f185f2b34265a8d5c0e831be5d88299e726bfb23b176756fece'}
+  - {seq: 3, filename: KR6k0157_003-X.yaml, hash: 'sha256:aeaf67aa3b219eb49348c45d6718b6ac674a50ac3b4e670a406f4c14d427506a'}
+  - {seq: 4, filename: KR6k0157_004-X.yaml, hash: 'sha256:443f1577053735d20f15e4e0c75afa8259e9da719f351cdc7036436e20d191d2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0157_000-X.markers.yaml, hash: 'sha256:3832991440096d3e935c844b004c8b7c540ef9610fa2a7d31b00a4011495d3a5'}
+  - {seq: 1, role: markers, filename: assets/KR6k0157_001-X.markers.yaml, hash: 'sha256:b749805c4e2ddd8e8d4801fa737c9dd89b2412e514259d4f4de3d6ce32233958'}
+  - {seq: 2, role: markers, filename: assets/KR6k0157_002-X.markers.yaml, hash: 'sha256:42640b632fe6769ace010f9b1dd9027422c9a195ef074d63fdb16b8d09ed9a3d'}
+  - {seq: 3, role: markers, filename: assets/KR6k0157_003-X.markers.yaml, hash: 'sha256:0cb0125ad42f3944ac371f08fe18127cc06168d598b0c4a1fb13a1d372d70787'}
+  - {seq: 4, role: markers, filename: assets/KR6k0157_004-X.markers.yaml, hash: 'sha256:caa2d7349858e387287c5b63f53316c3a956e35cfc36cd7a2681a813f3a6f001'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0157_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5773
+  label: 釋四分律刪補隨機羯磨疏科
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0157_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 5423
+  label: 釋四分律刪補隨機羯磨疏科卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0157_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6898
+  label: 釋四分律刪補隨機羯磨疏科卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0157_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 6048
+  label: 釋四分律刪補隨機羯磨疏科卷四
+  type: juan
+  level: 1
+hash: sha256:816f0b2576c339754ae2bcd0893fc6b29f3a43a55d23b08ddc6ddc94af102195
